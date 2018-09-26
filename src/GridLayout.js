@@ -11,7 +11,7 @@ export default ({ title, items, cardType }) => (
     <h1>{title}</h1>
     <div className="grid-layout">
       {items.map(
-        item => <CardWrapper item={item} cardType={"home"} />
+        item => <CardWrapper key={item.product_id} item={item} cardType={"home"} />
       )}
     </div>
   </React.Fragment>
