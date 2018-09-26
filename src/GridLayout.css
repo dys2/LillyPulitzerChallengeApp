@@ -1,0 +1,21 @@
+div.grid-layout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+}
+
+div.grid-layout > div {
+  width: 300px;
+  overflow: hidden;
+  border: solid 1px #444;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+div.grid-layout card-image {
+  min-width: 100%;
+  max-height: 400px;
+  overflow: hidden;
+}

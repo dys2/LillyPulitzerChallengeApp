@@ -1,0 +1,3098 @@
+{
+    "_v": "18.3",
+    "_type": "product_search_result",
+    "count": 18,
+    "hits": [
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Elsa Silk Top, Onyx, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/46456_onyx-sf",
+                "title": "Elsa Silk Top, Onyx"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/46456-onyx?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 138,
+            "product_id": "46456-onyx",
+            "product_name": "Elsa Silk Top",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069357009",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069357009?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069357009",
+                "image": {
+                    "alt": "Elsa Silk Top, Onyx, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/46456_onyx-sf?$sfTote2x$",
+                    "title": "Elsa Silk Top, Onyx"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Dustin Cardigan, Royal Purple, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/30198_royalpurple-sf",
+                "title": "Dustin Cardigan, Royal Purple"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/30198-royalpurple?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 128,
+            "product_id": "30198-royalpurple",
+            "product_name": "Dustin Cardigan",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069375447",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069375447?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069375447",
+                "image": {
+                    "alt": "Dustin Cardigan, Royal Purple, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/30198_royalpurple-sf?$sfTote2x$",
+                    "title": "Dustin Cardigan, Royal Purple"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Kelsea Silk Maxi Dress, Onyx, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/25542_onyx-sf",
+                "title": "Kelsea Silk Maxi Dress, Onyx"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/25542-onyx?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 298,
+            "product_id": "25542-onyx",
+            "product_name": "Kelsea Silk Maxi Dress",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069385989",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069385989?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069385989",
+                "image": {
+                    "alt": "Kelsea Silk Maxi Dress, Onyx, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/25542_onyx-sf?$sfTote2x$",
+                    "title": "Kelsea Silk Maxi Dress, Onyx"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "UPF 50+ Luxletic 21\" High Rise Weekender Cropped Pant, Royal Purple Pop Up Toe In, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/29517_royalpurplepopuptoein-sf",
+                "title": "UPF 50+ Luxletic 21\" High Rise Weekender Cropped Pant, Royal Purple Pop Up Toe In"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/29517-royalpurplepopuptoein?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 108,
+            "product_id": "29517-royalpurplepopuptoein",
+            "product_name": "UPF 50+ Luxletic 21\" High Rise Weekender Cropped Pant",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069405625",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069405625?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069405625",
+                "image": {
+                    "alt": "UPF 50+ Luxletic 21\" High Rise Weekender Cropped Pant, Royal Purple Pop Up Toe In, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/29517_royalpurplepopuptoein-sf?$sfTote2x$",
+                    "title": "UPF 50+ Luxletic 21\" High Rise Weekender Cropped Pant, Royal Purple Pop Up Toe In"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Ophelia Dress, Bright Navy Hypes And Stripes Eng Knit Dress, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/30685_brightnavyhypesandstripesengknitdress-sf",
+                "title": "Ophelia Dress, Bright Navy Hypes And Stripes Eng Knit Dress"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/30685-brightnavyhypesandstripesengknitdress?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 178,
+            "product_id": "30685-brightnavyhypesandstripesengknitdress",
+            "product_name": "Ophelia Dress",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069383404",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069383404?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069383404",
+                "image": {
+                    "alt": "Ophelia Dress, Bright Navy Hypes And Stripes Eng Knit Dress, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/30685_brightnavyhypesandstripesengknitdress-sf?$sfTote2x$",
+                    "title": "Ophelia Dress, Bright Navy Hypes And Stripes Eng Knit Dress"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Skipper Solid Popover Dress, Onyx, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/27655_onyx-sf",
+                "title": "Skipper Solid Popover Dress, Onyx"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/27655-onyx?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 158,
+            "product_id": "27655-onyx",
+            "product_name": "Skipper Solid Popover Dress",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069368272",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069368272?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069368272",
+                "image": {
+                    "alt": "Skipper Solid Popover Dress, Onyx, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/27655_onyx-sf?$sfTote2x$",
+                    "title": "Skipper Solid Popover Dress, Onyx"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Caroline Silk Tunic Dress, Pinata Pink Starry Clip Chiffon, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/29915_pinatapinkstarryclipchiffon-sf",
+                "title": "Caroline Silk Tunic Dress, Pinata Pink Starry Clip Chiffon"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/29915-pinatapinkstarryclipchiffon?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 248,
+            "product_id": "29915-pinatapinkstarryclipchiffon",
+            "product_name": "Caroline Silk Tunic Dress",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069371227",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069371227?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069371227",
+                "image": {
+                    "alt": "Caroline Silk Tunic Dress, Pinata Pink Starry Clip Chiffon, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/29915_pinatapinkstarryclipchiffon-sf?$sfTote2x$",
+                    "title": "Caroline Silk Tunic Dress, Pinata Pink Starry Clip Chiffon"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Seaspray Jacket, Onyx, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/30757_onyx-sf",
+                "title": "Seaspray Jacket, Onyx"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/30757-onyx?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 158,
+            "product_id": "30757-onyx",
+            "product_name": "Seaspray Jacket",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069397302",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069397302?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069397302",
+                "image": {
+                    "alt": "Seaspray Jacket, Onyx, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/30757_onyx-sf?$sfTote2x$",
+                    "title": "Seaspray Jacket, Onyx"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Martine Sweater, Coconut, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/29867_coconut-sf",
+                "title": "Martine Sweater, Coconut"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/29867-coconut?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 128,
+            "product_id": "29867-coconut",
+            "product_name": "Martine Sweater",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069369682",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069369682?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069369682",
+                "image": {
+                    "alt": "Martine Sweater, Coconut, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/29867_coconut-sf?$sfTote2x$",
+                    "title": "Martine Sweater, Coconut"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Martine Sweater, Heathered Sea Pebble Grey, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/29867_heatheredseapebblegrey-sf",
+                "title": "Martine Sweater, Heathered Sea Pebble Grey"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/29867-heatheredseapebblegrey?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 128,
+            "product_id": "29867-heatheredseapebblegrey",
+            "product_name": "Martine Sweater",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069369620",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069369620?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069369620",
+                "image": {
+                    "alt": "Martine Sweater, Heathered Sea Pebble Grey, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/29867_heatheredseapebblegrey-sf?$sfTote2x$",
+                    "title": "Martine Sweater, Heathered Sea Pebble Grey"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Martine Sweater, Light Lilac Verbena, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/29867_lightlilacverbena-sf",
+                "title": "Martine Sweater, Light Lilac Verbena"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/29867-lightlilacverbena?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 128,
+            "product_id": "29867-lightlilacverbena",
+            "product_name": "Martine Sweater",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069369804",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069369804?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069369804",
+                "image": {
+                    "alt": "Martine Sweater, Light Lilac Verbena, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/29867_lightlilacverbena-sf?$sfTote2x$",
+                    "title": "Martine Sweater, Light Lilac Verbena"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "South Ocean Skinny Crop with Lace, Onyx, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/30781_onyx-sf",
+                "title": "South Ocean Skinny Crop with Lace, Onyx"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/30781-onyx?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 168,
+            "product_id": "30781-onyx",
+            "product_name": "South Ocean Skinny Crop with Lace",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069430146",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069430146?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069430146",
+                "image": {
+                    "alt": "South Ocean Skinny Crop with Lace, Onyx, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/30781_onyx-sf?$sfTote2x$",
+                    "title": "South Ocean Skinny Crop with Lace, Onyx"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Lillith Tunic Dress, Royal Purple Pop Up Toe In Eng Tunic Dress, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/30765_royalpurplepopuptoeinengtunicdress-sf",
+                "title": "Lillith Tunic Dress, Royal Purple Pop Up Toe In Eng Tunic Dress"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/30765-royalpurplepopuptoeinengtunicdress?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 148,
+            "product_id": "30765-royalpurplepopuptoeinengtunicdress",
+            "product_name": "Lillith Tunic Dress",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069404970",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069404970?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069404970",
+                "image": {
+                    "alt": "Lillith Tunic Dress, Royal Purple Pop Up Toe In Eng Tunic Dress, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/30765_royalpurplepopuptoeinengtunicdress-sf?$sfTote2x$",
+                    "title": "Lillith Tunic Dress, Royal Purple Pop Up Toe In Eng Tunic Dress"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Skipper Solid Popover - Lace Sleeve, Onyx, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/26084_onyx-sf",
+                "title": "Skipper Solid Popover - Lace Sleeve, Onyx"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/26084-onyx?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 108,
+            "product_id": "26084-onyx",
+            "product_name": "Skipper Solid Popover - Lace Sleeve",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069367015",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069367015?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069367015",
+                "image": {
+                    "alt": "Skipper Solid Popover - Lace Sleeve, Onyx, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/26084_onyx-sf?$sfTote2x$",
+                    "title": "Skipper Solid Popover - Lace Sleeve, Onyx"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "31\" Worth Skinny Jean - Sateen, Onyx, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/67093_onyx-sf",
+                "title": "31\" Worth Skinny Jean - Sateen, Onyx"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/67093-onyx?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 158,
+            "product_id": "67093-onyx",
+            "product_name": "31\" Worth Skinny Jean - Sateen",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069389598",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069389598?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069389598",
+                "image": {
+                    "alt": "31\" Worth Skinny Jean - Sateen, Onyx, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/67093_onyx-sf?$sfTote2x$",
+                    "title": "31\" Worth Skinny Jean - Sateen, Onyx"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "UPF 50+ Sophie Dress, Royal Purple Pop Up Toe In, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/17412_royalpurplepopuptoein-sf",
+                "title": "UPF 50+ Sophie Dress, Royal Purple Pop Up Toe In"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/17412-royalpurplepopuptoein?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 138,
+            "product_id": "17412-royalpurplepopuptoein",
+            "product_name": "UPF 50+ Sophie Dress",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069405243",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069405243?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069405243",
+                "image": {
+                    "alt": "UPF 50+ Sophie Dress, Royal Purple Pop Up Toe In, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/17412_royalpurplepopuptoein-sf?$sfTote2x$",
+                    "title": "UPF 50+ Sophie Dress, Royal Purple Pop Up Toe In"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Star Of The Sea Earrings, Resort White, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/30785_resortwhite-sf",
+                "title": "Star Of The Sea Earrings, Resort White"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/30785-resortwhite?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 58,
+            "product_id": "30785-resortwhite",
+            "product_name": "Star Of The Sea Earrings",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069443641",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069443641?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069443641",
+                "image": {
+                    "alt": "Star Of The Sea Earrings, Resort White, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/30785_resortwhite-sf?$sfTote2x$",
+                    "title": "Star Of The Sea Earrings, Resort White"
+                }
+            }
+        },
+        {
+            "_type": "product_search_hit",
+            "currency": "USD",
+            "hit_type": "variation_group",
+            "image": {
+                "_type": "image",
+                "alt": "Lilah Dress, Royal Purple Wild Child Engineered Dress, large",
+                "link": "https://s7d1.scene7.com/is/image/sugartown/30543_royalpurplewildchildengineereddress-sf",
+                "title": "Lilah Dress, Royal Purple Wild Child Engineered Dress"
+            },
+            "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/30543-royalpurplewildchildengineereddress?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+            "orderable": true,
+            "price": 158,
+            "product_id": "30543-royalpurplewildchildengineereddress",
+            "product_name": "Lilah Dress",
+            "product_type": {
+                "_type": "product_type",
+                "variation_group": true
+            },
+            "represented_product": {
+                "_type": "product_ref",
+                "id": "889069380267",
+                "link": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/products/889069380267?q=&count=18&start=0&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219"
+            },
+            "c_defaultVariant": {
+                "ID": "889069380267",
+                "image": {
+                    "alt": "Lilah Dress, Royal Purple Wild Child Engineered Dress, large",
+                    "link": "https://s7d1.scene7.com/is/image/sugartown/30543_royalpurplewildchildengineereddress-sf?$sfTote2x$",
+                    "title": "Lilah Dress, Royal Purple Wild Child Engineered Dress"
+                }
+            }
+        }
+    ],
+    "next": "https://dev.lillypulitzer.com/s/lillypulitzer-us/dw/shop/v18_3/product_search?q=&expand=availability%2Cimages%2Cprices%2Cvariations&count=18&start=18&refine_1=cgid%3Djust-in&client_id=7469c353-e112-4902-bf40-ead35df41219",
+    "query": "",
+    "refinements": [
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementColorFamily",
+            "label": "Color",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 9,
+                    "label": "Red",
+                    "value": "Red"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Orange",
+                    "value": "Orange"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Yellow",
+                    "value": "Yellow"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Green",
+                    "value": "Green"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 158,
+                    "label": "Blue",
+                    "value": "Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 60,
+                    "label": "Purple",
+                    "value": "Purple"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 20,
+                    "label": "Pink",
+                    "value": "Pink"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 26,
+                    "label": "White",
+                    "value": "White"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 25,
+                    "label": "Black",
+                    "value": "Black"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Brown",
+                    "value": "Brown"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Gold",
+                    "value": "Gold"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 7,
+                    "label": "Grey",
+                    "value": "Grey"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Multi",
+                    "value": "Multi"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementPrintFamily",
+            "label": "Print",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bamboo Bash",
+                    "value": "Bamboo Bash"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Beachy Yd Stripe",
+                    "value": "Beachy Yd Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Catch The Wave Accessories Small",
+                    "value": "Catch The Wave Accessories Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Celestial Seas",
+                    "value": "Celestial Seas"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Chimpoiserie",
+                    "value": "Chimpoiserie"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Coastal Shell Stripe",
+                    "value": "Coastal Shell Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Crisscross Tuxedo Stripe",
+                    "value": "Crisscross Tuxedo Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Dazzle",
+                    "value": "Dazzle"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Diamond Geo Lace",
+                    "value": "Diamond Geo Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Diamond Metallic Clip",
+                    "value": "Diamond Metallic Clip"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Early Bloomer",
+                    "value": "Early Bloomer"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Early Bloomer Engineered Dres",
+                    "value": "Early Bloomer Engineered Dres"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 4,
+                    "label": "Early Riser",
+                    "value": "Early Riser"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Early Riser Engineered Dress",
+                    "value": "Early Riser Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Early Riser Engineered Maxi",
+                    "value": "Early Riser Engineered Maxi"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Elephant Childrens Londyn Top",
+                    "value": "Elephant Childrens Londyn Top"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Extra Lucky",
+                    "value": "Extra Lucky"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Extra Lucky Hat",
+                    "value": "Extra Lucky Hat"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Feather Bloom Lace",
+                    "value": "Feather Bloom Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Feeder Stripe",
+                    "value": "Feeder Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Fern Gallery Lace",
+                    "value": "Fern Gallery Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Ginger Jar",
+                    "value": "Ginger Jar"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Gypset Swirl Dress",
+                    "value": "Gypset Swirl Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Happiness Colie Tee Graphic Front",
+                    "value": "Happiness Colie Tee Graphic Front"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Hypes And Stripes",
+                    "value": "Hypes And Stripes"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Hypes And Stripes Eng Knit Dress",
+                    "value": "Hypes And Stripes Eng Knit Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Hypes And Stripes Eng Woven Dress",
+                    "value": "Hypes And Stripes Eng Woven Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 11,
+                    "label": "In Reel Life",
+                    "value": "In Reel Life"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "In The Details",
+                    "value": "In The Details"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Its Impawsible Engineered Elsa",
+                    "value": "Its Impawsible Engineered Elsa"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Its Impawsible Engineered Pant",
+                    "value": "Its Impawsible Engineered Pant"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Its Impawsible Engineered Top",
+                    "value": "Its Impawsible Engineered Top"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Its Impawsible Eng Kids",
+                    "value": "Its Impawsible Eng Kids"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Its Impawsible Eng Knit Dress",
+                    "value": "Its Impawsible Eng Knit Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Its Impawsible Eng Skirt",
+                    "value": "Its Impawsible Eng Skirt"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Its Impawsible Eng Woven Dress",
+                    "value": "Its Impawsible Eng Woven Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Its Prime Time",
+                    "value": "Its Prime Time"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Its Prime Time Small",
+                    "value": "Its Prime Time Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Jet Stream Accessories Small",
+                    "value": "Jet Stream Accessories Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Jungley Stripe Horizontal",
+                    "value": "Jungley Stripe Horizontal"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Jungley Stripe Vertical",
+                    "value": "Jungley Stripe Vertical"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Leaf A Good Impression Gift Card",
+                    "value": "Leaf A Good Impression Gift Card"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Lemur Alone Engineered Woven Dress",
+                    "value": "Lemur Alone Engineered Woven Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Leopard Haircalf",
+                    "value": "Leopard Haircalf"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Monkey Business Engineered Dress",
+                    "value": "Monkey Business Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Swell In The Groves",
+                    "value": "Multi Swell In The Groves"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Mystic Stripe",
+                    "value": "Mystic Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Nest To Nothing",
+                    "value": "Nest To Nothing"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Palm Paradise Puckered Jacquard",
+                    "value": "Palm Paradise Puckered Jacquard"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Pans Garden",
+                    "value": "Pans Garden"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Party Like A Flock Star",
+                    "value": "Party Like A Flock Star"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Peanut Gallery Engineered Maxi Dress",
+                    "value": "Peanut Gallery Engineered Maxi Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Peanut Gallery Engineered Romper",
+                    "value": "Peanut Gallery Engineered Romper"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Pecking Order Engineered Dress",
+                    "value": "Pecking Order Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Perfect Match Jacquard",
+                    "value": "Perfect Match Jacquard"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Petal Faster Engineered Skirt",
+                    "value": "Petal Faster Engineered Skirt"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Petal Faster Engineered Top",
+                    "value": "Petal Faster Engineered Top"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Pineapple Party",
+                    "value": "Pineapple Party"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Polka Dot",
+                    "value": "Polka Dot"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Pop Up I Got Lucky",
+                    "value": "Pop Up I Got Lucky"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Pop Up Safari Stripe Eng Dress",
+                    "value": "Pop Up Safari Stripe Eng Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Pop Up Stuffed Shells",
+                    "value": "Pop Up Stuffed Shells"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 7,
+                    "label": "Pop Up Toe In",
+                    "value": "Pop Up Toe In"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Pop Up Toe In Eng Tunic Dress",
+                    "value": "Pop Up Toe In Eng Tunic Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Positano Yarn Dyed Stripe",
+                    "value": "Positano Yarn Dyed Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Race To The Wave Accessories Small",
+                    "value": "Race To The Wave Accessories Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 11,
+                    "label": "Scale Up",
+                    "value": "Scale Up"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Scale Up Engineered Dress",
+                    "value": "Scale Up Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Scalloped Fan Lace",
+                    "value": "Scalloped Fan Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Scalloped Shell Lace",
+                    "value": "Scalloped Shell Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Seagate Starburst Embroidery",
+                    "value": "Seagate Starburst Embroidery"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Shell We Dance Accessories Small",
+                    "value": "Shell We Dance Accessories Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Showdown Engineered Tote",
+                    "value": "Showdown Engineered Tote"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 11,
+                    "label": "Slathouse Soiree",
+                    "value": "Slathouse Soiree"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Slathouse Soiree Engineered Dress",
+                    "value": "Slathouse Soiree Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Slathouse Soiree Engineered Sophie",
+                    "value": "Slathouse Soiree Engineered Sophie"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Slathouse Soiree Engineered Tote",
+                    "value": "Slathouse Soiree Engineered Tote"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 4,
+                    "label": "Slathouse Stripe",
+                    "value": "Slathouse Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Sneak A Beak",
+                    "value": "Sneak A Beak"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Sneak A Beak Hat",
+                    "value": "Sneak A Beak Hat"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "So Speshell Gift Card",
+                    "value": "So Speshell Gift Card"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Starry Clip Chiffon",
+                    "value": "Starry Clip Chiffon"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Sunny And Bright Gift Card",
+                    "value": "Sunny And Bright Gift Card"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Swell Catch The Wave",
+                    "value": "Swell Catch The Wave"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Swell Jet Stream",
+                    "value": "Swell Jet Stream"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Swell Race To The Wave",
+                    "value": "Swell Race To The Wave"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Swell Shell We Dance",
+                    "value": "Swell Shell We Dance"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Twice As Nice Engineered Dress",
+                    "value": "Twice As Nice Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Twice As Nice Engineered Pants",
+                    "value": "Twice As Nice Engineered Pants"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Via Flora",
+                    "value": "Via Flora"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Wild Child",
+                    "value": "Wild Child"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Wild Child Engineered Dress",
+                    "value": "Wild Child Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Wild Child Engineered Little Lilah",
+                    "value": "Wild Child Engineered Little Lilah"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Wild Child Engineered Luxletic",
+                    "value": "Wild Child Engineered Luxletic"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Wild Child Engineered Pants",
+                    "value": "Wild Child Engineered Pants"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "price",
+            "label": "Price",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 38,
+                    "label": "$50 & Under",
+                    "value": "(0..50)"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 108,
+                    "label": "$50 - $100",
+                    "value": "(50..100)"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 99,
+                    "label": "$100 - $150",
+                    "value": "(100..150)"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 89,
+                    "label": "$150 - $250",
+                    "value": "(150..250)"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 7,
+                    "label": "$250 & Over",
+                    "value": "(250..10000)"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementDressFit",
+            "label": "Dress Fit"
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementSleeve",
+            "label": "Sleeve Type",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 87,
+                    "label": "Long Sleeve",
+                    "value": "Long Sleeve"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 13,
+                    "label": "Short Sleeve",
+                    "value": "Short Sleeve"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 43,
+                    "label": "Sleeveless",
+                    "value": "Sleeveless"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementPrintContent",
+            "label": "Print Imagery"
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementSwimType",
+            "label": "Swimsuit Type"
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementStoreAvailability",
+            "label": "Store Availability",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 179,
+                    "label": "80228-220",
+                    "value": "80228-220"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 271,
+                    "label": "80228-221",
+                    "value": "80228-221"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 270,
+                    "label": "80228-223",
+                    "value": "80228-223"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 164,
+                    "label": "80228-224",
+                    "value": "80228-224"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 278,
+                    "label": "80228-225",
+                    "value": "80228-225"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 281,
+                    "label": "80228-227",
+                    "value": "80228-227"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 331,
+                    "label": "80228-231",
+                    "value": "80228-231"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 231,
+                    "label": "80228-235",
+                    "value": "80228-235"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 274,
+                    "label": "80228-236",
+                    "value": "80228-236"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 309,
+                    "label": "80228-237",
+                    "value": "80228-237"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 322,
+                    "label": "80228-240",
+                    "value": "80228-240"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 320,
+                    "label": "80228-242",
+                    "value": "80228-242"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 329,
+                    "label": "80228-244",
+                    "value": "80228-244"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 324,
+                    "label": "80228-245",
+                    "value": "80228-245"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 310,
+                    "label": "80228-246",
+                    "value": "80228-246"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 281,
+                    "label": "80228-247",
+                    "value": "80228-247"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 312,
+                    "label": "80228-248",
+                    "value": "80228-248"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 265,
+                    "label": "80228-249",
+                    "value": "80228-249"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 274,
+                    "label": "80228-250",
+                    "value": "80228-250"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 262,
+                    "label": "80228-251",
+                    "value": "80228-251"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 319,
+                    "label": "80228-252",
+                    "value": "80228-252"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 305,
+                    "label": "80228-253",
+                    "value": "80228-253"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 182,
+                    "label": "80228-254",
+                    "value": "80228-254"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 308,
+                    "label": "80228-255",
+                    "value": "80228-255"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 219,
+                    "label": "80228-256",
+                    "value": "80228-256"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 259,
+                    "label": "80228-257",
+                    "value": "80228-257"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 217,
+                    "label": "80228-258",
+                    "value": "80228-258"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 267,
+                    "label": "80228-260",
+                    "value": "80228-260"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 322,
+                    "label": "80228-261",
+                    "value": "80228-261"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 250,
+                    "label": "80228-262",
+                    "value": "80228-262"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 272,
+                    "label": "80228-263",
+                    "value": "80228-263"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 282,
+                    "label": "80228-264",
+                    "value": "80228-264"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 244,
+                    "label": "80228-265",
+                    "value": "80228-265"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 312,
+                    "label": "80228-266",
+                    "value": "80228-266"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 319,
+                    "label": "80228-267",
+                    "value": "80228-267"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 264,
+                    "label": "80228-268",
+                    "value": "80228-268"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 226,
+                    "label": "80228-269",
+                    "value": "80228-269"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 310,
+                    "label": "80228-270",
+                    "value": "80228-270"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 295,
+                    "label": "80228-271",
+                    "value": "80228-271"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 234,
+                    "label": "80228-272",
+                    "value": "80228-272"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 326,
+                    "label": "80228-273",
+                    "value": "80228-273"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 227,
+                    "label": "80228-274",
+                    "value": "80228-274"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 237,
+                    "label": "80228-275",
+                    "value": "80228-275"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 205,
+                    "label": "80228-276",
+                    "value": "80228-276"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 217,
+                    "label": "80228-277",
+                    "value": "80228-277"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 218,
+                    "label": "80228-278",
+                    "value": "80228-278"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 222,
+                    "label": "80228-279",
+                    "value": "80228-279"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 214,
+                    "label": "80228-280",
+                    "value": "80228-280"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 211,
+                    "label": "80228-281",
+                    "value": "80228-281"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 256,
+                    "label": "80228-282",
+                    "value": "80228-282"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 289,
+                    "label": "80228-283",
+                    "value": "80228-283"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 262,
+                    "label": "80228-284",
+                    "value": "80228-284"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 299,
+                    "label": "80228-286",
+                    "value": "80228-286"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 206,
+                    "label": "80228-287",
+                    "value": "80228-287"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 318,
+                    "label": "80228-288",
+                    "value": "80228-288"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 262,
+                    "label": "80228-289",
+                    "value": "80228-289"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 324,
+                    "label": "80228-290",
+                    "value": "80228-290"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 242,
+                    "label": "80228-291",
+                    "value": "80228-291"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 274,
+                    "label": "80228-292",
+                    "value": "80228-292"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 263,
+                    "label": "80228-296",
+                    "value": "80228-296"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_womensSize",
+            "label": "Womens Sizes",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 39,
+                    "label": "00",
+                    "value": "00"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 39,
+                    "label": "0",
+                    "value": "0"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 42,
+                    "label": "2",
+                    "value": "2"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "3",
+                    "value": "3"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 41,
+                    "label": "4",
+                    "value": "4"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "5",
+                    "value": "5"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 42,
+                    "label": "6",
+                    "value": "6"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "7",
+                    "value": "7"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 41,
+                    "label": "8",
+                    "value": "8"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 39,
+                    "label": "10",
+                    "value": "10"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 39,
+                    "label": "12",
+                    "value": "12"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 38,
+                    "label": "14",
+                    "value": "14"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 30,
+                    "label": "16",
+                    "value": "16"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 176,
+                    "label": "XXS",
+                    "value": "XXS"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "XXS/XS",
+                    "value": "XXS/XS"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 197,
+                    "label": "XS",
+                    "value": "XS"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 195,
+                    "label": "S",
+                    "value": "S"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "S/M",
+                    "value": "S/M"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 198,
+                    "label": "M",
+                    "value": "M"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 195,
+                    "label": "L",
+                    "value": "L"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "L/XL",
+                    "value": "L/XL"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 191,
+                    "label": "XL",
+                    "value": "XL"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_girlsSize",
+            "label": "Girls Sizes",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "2",
+                    "value": "2"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "3",
+                    "value": "3"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "4",
+                    "value": "4"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "5",
+                    "value": "5"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "6",
+                    "value": "6"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "7",
+                    "value": "7"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "8",
+                    "value": "8"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "10",
+                    "value": "10"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 21,
+                    "label": "XS",
+                    "value": "XS"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 22,
+                    "label": "S",
+                    "value": "S"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 24,
+                    "label": "M",
+                    "value": "M"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 27,
+                    "label": "L",
+                    "value": "L"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 22,
+                    "label": "XL",
+                    "value": "XL"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "3-6M",
+                    "value": "3-6M"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "6-12M",
+                    "value": "6-12M"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "12-18M",
+                    "value": "12-18M"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "18-24M",
+                    "value": "18-24M"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_mensSize",
+            "label": "Mens Sizes",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "30R",
+                    "value": "30R"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "32R",
+                    "value": "32R"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "34R",
+                    "value": "34R"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "36R",
+                    "value": "36R"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "38R",
+                    "value": "38R"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "40R",
+                    "value": "40R"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_shoeSize",
+            "label": "Shoe Sizes",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "6",
+                    "value": "6"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "6.5",
+                    "value": "6.5"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "7",
+                    "value": "7"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "7.5",
+                    "value": "7.5"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "8",
+                    "value": "8"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "8.5",
+                    "value": "8.5"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "9",
+                    "value": "9"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "9.5",
+                    "value": "9.5"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "10",
+                    "value": "10"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_boysSize",
+            "label": "Boys Sizes",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "2",
+                    "value": "2"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "3",
+                    "value": "3"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "4",
+                    "value": "4"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "5",
+                    "value": "5"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "6",
+                    "value": "6"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "7",
+                    "value": "7"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "8",
+                    "value": "8"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "10",
+                    "value": "10"
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementPantsLength",
+            "label": "Pant Length Inseam",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "26\"",
+                    "value": "26\""
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "27\"",
+                    "value": "27\""
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "28\"",
+                    "value": "28\""
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "29\"",
+                    "value": "29\""
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "30\"",
+                    "value": "30\""
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 4,
+                    "label": "33\"",
+                    "value": "33\""
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementShortsLength",
+            "label": "Short Length Inseam",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "4\"",
+                    "value": "4\""
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "5\"",
+                    "value": "5\""
+                }
+            ]
+        },
+        {
+            "_type": "product_search_refinement",
+            "attribute_id": "c_refinementColor",
+            "label": "Custom Color",
+            "values": [
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Amante Aqua",
+                    "value": "Amante Aqua"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bauble Yellow Lemur Alone Engineered Woven Dress",
+                    "value": "Bauble Yellow Lemur Alone Engineered Woven Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Beckon Blue",
+                    "value": "Beckon Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Bennet Blue",
+                    "value": "Bennet Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bennet Blue Beachy Yd Stripe",
+                    "value": "Bennet Blue Beachy Yd Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Bennet Blue Celestial Seas",
+                    "value": "Bennet Blue Celestial Seas"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bennet Blue Heather",
+                    "value": "Bennet Blue Heather"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Bennet Blue Hypes And Stripes",
+                    "value": "Bennet Blue Hypes And Stripes"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Bennet Blue Polka Dot",
+                    "value": "Bennet Blue Polka Dot"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Bennet Blue Pop Up I Got Lucky",
+                    "value": "Bennet Blue Pop Up I Got Lucky"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Bennet Blue Race To The Wave Accessories Small",
+                    "value": "Bennet Blue Race To The Wave Accessories Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bennet Blue Scalloped Fan Lace",
+                    "value": "Bennet Blue Scalloped Fan Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Bennet Blue Sneak A Beak",
+                    "value": "Bennet Blue Sneak A Beak"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bennet Blue Sneak A Beak Hat",
+                    "value": "Bennet Blue Sneak A Beak Hat"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Bennet Blue Swell Race To The Wave",
+                    "value": "Bennet Blue Swell Race To The Wave"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Black",
+                    "value": "Black"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Blackberry",
+                    "value": "Blackberry"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Blue Horizon",
+                    "value": "Blue Horizon"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Blue Peri Pop Up Stuffed Shells",
+                    "value": "Blue Peri Pop Up Stuffed Shells"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Boho Blue",
+                    "value": "Boho Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy",
+                    "value": "Bright Navy"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy Hypes And Stripes Eng Knit Dress",
+                    "value": "Bright Navy Hypes And Stripes Eng Knit Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy Hypes And Stripes Eng Woven Dress",
+                    "value": "Bright Navy Hypes And Stripes Eng Woven Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 11,
+                    "label": "Bright Navy In Reel Life",
+                    "value": "Bright Navy In Reel Life"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy Jungley Stripe Horizontal",
+                    "value": "Bright Navy Jungley Stripe Horizontal"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Bright Navy Jungley Stripe Vertical",
+                    "value": "Bright Navy Jungley Stripe Vertical"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy Mystic Stripe",
+                    "value": "Bright Navy Mystic Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Bright Navy Party Like A Flock Star",
+                    "value": "Bright Navy Party Like A Flock Star"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Bright Navy Pineapple Party",
+                    "value": "Bright Navy Pineapple Party"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy Positano Yarn Dyed Stripe",
+                    "value": "Bright Navy Positano Yarn Dyed Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy Showdown Engineered Tote",
+                    "value": "Bright Navy Showdown Engineered Tote"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy Twice As Nice Engineered Dress",
+                    "value": "Bright Navy Twice As Nice Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Bright Navy Twice As Nice Engineered Pants",
+                    "value": "Bright Navy Twice As Nice Engineered Pants"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Celery",
+                    "value": "Celery"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Coastal Coral",
+                    "value": "Coastal Coral"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Coconut",
+                    "value": "Coconut"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Coconut Coastal Shell Stripe",
+                    "value": "Coconut Coastal Shell Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Coral Reef Tint",
+                    "value": "Coral Reef Tint"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Coral Reef Tint Chimpoiserie",
+                    "value": "Coral Reef Tint Chimpoiserie"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Coral Reef Tint Monkey Business Engineered Dress",
+                    "value": "Coral Reef Tint Monkey Business Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Coral Reef Tint Space Dye",
+                    "value": "Coral Reef Tint Space Dye"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Cosmic Coral",
+                    "value": "Cosmic Coral"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Crew Blue",
+                    "value": "Crew Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Dark Tortoise",
+                    "value": "Dark Tortoise"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Desert Moon",
+                    "value": "Desert Moon"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 13,
+                    "label": "Gold Metallic",
+                    "value": "Gold Metallic"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Heathered Boho Blue",
+                    "value": "Heathered Boho Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Heathered Camel Metallic",
+                    "value": "Heathered Camel Metallic"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Heathered Chambray Tint",
+                    "value": "Heathered Chambray Tint"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Heathered Grey Mist",
+                    "value": "Heathered Grey Mist"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Heathered Paradise Pink",
+                    "value": "Heathered Paradise Pink"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Heathered Sand Bar",
+                    "value": "Heathered Sand Bar"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Heathered Sea Pebble Grey",
+                    "value": "Heathered Sea Pebble Grey"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Heathered Seasalt Blue",
+                    "value": "Heathered Seasalt Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Ikat Blue",
+                    "value": "Ikat Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Indigo Wash Seagate Starburst Embroidery",
+                    "value": "Indigo Wash Seagate Starburst Embroidery"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 4,
+                    "label": "Inky Navy",
+                    "value": "Inky Navy"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Inky Navy Bamboo Bash",
+                    "value": "Inky Navy Bamboo Bash"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Inky Navy Peanut Gallery Engineered Maxi Dress",
+                    "value": "Inky Navy Peanut Gallery Engineered Maxi Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Inky Navy Peanut Gallery Engineered Romper",
+                    "value": "Inky Navy Peanut Gallery Engineered Romper"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 7,
+                    "label": "Light Lilac Verbena",
+                    "value": "Light Lilac Verbena"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Light Lilac Verbena Its Impawsible Engineered Elsa",
+                    "value": "Light Lilac Verbena Its Impawsible Engineered Elsa"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Light Lilac Verbena Its Impawsible Engineered Pant",
+                    "value": "Light Lilac Verbena Its Impawsible Engineered Pant"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Light Lilac Verbena Its Impawsible Engineered Top",
+                    "value": "Light Lilac Verbena Its Impawsible Engineered Top"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Light Lilac Verbena Its Impawsible Eng Kids",
+                    "value": "Light Lilac Verbena Its Impawsible Eng Kids"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Light Lilac Verbena Its Impawsible Eng Knit Dress",
+                    "value": "Light Lilac Verbena Its Impawsible Eng Knit Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Light Lilac Verbena Its Impawsible Eng Skirt",
+                    "value": "Light Lilac Verbena Its Impawsible Eng Skirt"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Light Lilac Verbena Its Impawsible Eng Woven Dress",
+                    "value": "Light Lilac Verbena Its Impawsible Eng Woven Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Mandevilla Pink",
+                    "value": "Mandevilla Pink"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Mandevilla Pink Extra Lucky",
+                    "value": "Mandevilla Pink Extra Lucky"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Mandevilla Pink Extra Lucky Hat",
+                    "value": "Mandevilla Pink Extra Lucky Hat"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 4,
+                    "label": "Mandevilla Pink Slathouse Stripe",
+                    "value": "Mandevilla Pink Slathouse Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Melon Fig Ginger Jar",
+                    "value": "Melon Fig Ginger Jar"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Multi",
+                    "value": "Multi"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Catch The Wave Accessories Small",
+                    "value": "Multi Catch The Wave Accessories Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Multi Early Bloomer",
+                    "value": "Multi Early Bloomer"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Early Bloomer Engineered Dres",
+                    "value": "Multi Early Bloomer Engineered Dres"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Happiness Colie Tee Graphic Front",
+                    "value": "Multi Happiness Colie Tee Graphic Front"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Jet Stream Accessories Small",
+                    "value": "Multi Jet Stream Accessories Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Leaf A Good Impression Gift Card",
+                    "value": "Multi Leaf A Good Impression Gift Card"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Leopard Haircalf",
+                    "value": "Multi Leopard Haircalf"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Multi Swell In The Groves",
+                    "value": "Multi Multi Swell In The Groves"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Petal Faster Engineered Skirt",
+                    "value": "Multi Petal Faster Engineered Skirt"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Petal Faster Engineered Top",
+                    "value": "Multi Petal Faster Engineered Top"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 11,
+                    "label": "Multi Slathouse Soiree",
+                    "value": "Multi Slathouse Soiree"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Slathouse Soiree Engineered Dress",
+                    "value": "Multi Slathouse Soiree Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Slathouse Soiree Engineered Sophie",
+                    "value": "Multi Slathouse Soiree Engineered Sophie"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Slathouse Soiree Engineered Tote",
+                    "value": "Multi Slathouse Soiree Engineered Tote"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi So Speshell Gift Card",
+                    "value": "Multi So Speshell Gift Card"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Sunny And Bright Gift Card",
+                    "value": "Multi Sunny And Bright Gift Card"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Swell Catch The Wave",
+                    "value": "Multi Swell Catch The Wave"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Multi Swell Jet Stream",
+                    "value": "Multi Swell Jet Stream"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Multi Via Flora",
+                    "value": "Multi Via Flora"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Natural",
+                    "value": "Natural"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 21,
+                    "label": "Onyx",
+                    "value": "Onyx"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Onyx Scalloped Shell Lace",
+                    "value": "Onyx Scalloped Shell Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Paradise Pink",
+                    "value": "Paradise Pink"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 7,
+                    "label": "Paradise Tint",
+                    "value": "Paradise Tint"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Pearly Purple",
+                    "value": "Pearly Purple"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Pinata Pink",
+                    "value": "Pinata Pink"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Pinata Pink Starry Clip Chiffon",
+                    "value": "Pinata Pink Starry Clip Chiffon"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Pink Sunset",
+                    "value": "Pink Sunset"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Pink Sunset Pecking Order Engineered Dress",
+                    "value": "Pink Sunset Pecking Order Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Pink Tropics Feeder Stripe",
+                    "value": "Pink Tropics Feeder Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 8,
+                    "label": "Resort White",
+                    "value": "Resort White"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Resort White Crisscross Tuxedo Stripe",
+                    "value": "Resort White Crisscross Tuxedo Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Resort White Diamond Geo Lace",
+                    "value": "Resort White Diamond Geo Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Resort White Elephant Childrens Londyn Top",
+                    "value": "Resort White Elephant Childrens Londyn Top"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Resort White Perfect Match Jacquard",
+                    "value": "Resort White Perfect Match Jacquard"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Rose Gold",
+                    "value": "Rose Gold"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Royal Purple",
+                    "value": "Royal Purple"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 5,
+                    "label": "Royal Purple Dazzle",
+                    "value": "Royal Purple Dazzle"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 7,
+                    "label": "Royal Purple Pop Up Toe In",
+                    "value": "Royal Purple Pop Up Toe In"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Royal Purple Pop Up Toe In Eng Tunic Dress",
+                    "value": "Royal Purple Pop Up Toe In Eng Tunic Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Royal Purple Wild Child",
+                    "value": "Royal Purple Wild Child"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Royal Purple Wild Child Engineered Dress",
+                    "value": "Royal Purple Wild Child Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Royal Purple Wild Child Engineered Little Lilah",
+                    "value": "Royal Purple Wild Child Engineered Little Lilah"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Royal Purple Wild Child Engineered Luxletic",
+                    "value": "Royal Purple Wild Child Engineered Luxletic"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Royal Purple Wild Child Engineered Pants",
+                    "value": "Royal Purple Wild Child Engineered Pants"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Seasalt Blue",
+                    "value": "Seasalt Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Seasalt Blue Feeder Stripe",
+                    "value": "Seasalt Blue Feeder Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Seasalt Blue Shell We Dance Accessories Small",
+                    "value": "Seasalt Blue Shell We Dance Accessories Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Seasalt Blue Swell Shell We Dance",
+                    "value": "Seasalt Blue Swell Shell We Dance"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Tidal Wave",
+                    "value": "Tidal Wave"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Tidal Wave Fern Gallery Lace",
+                    "value": "Tidal Wave Fern Gallery Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 6,
+                    "label": "Tidal Wave In The Details",
+                    "value": "Tidal Wave In The Details"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Tidal Wave Its Prime Time",
+                    "value": "Tidal Wave Its Prime Time"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Tidal Wave Its Prime Time Small",
+                    "value": "Tidal Wave Its Prime Time Small"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Tidal Wave Pans Garden",
+                    "value": "Tidal Wave Pans Garden"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 35,
+                    "label": "True Navy",
+                    "value": "True Navy"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "True Navy Diamond Metallic Clip",
+                    "value": "True Navy Diamond Metallic Clip"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "True Navy Feather Bloom Lace",
+                    "value": "True Navy Feather Bloom Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "True Navy Feeder Stripe",
+                    "value": "True Navy Feeder Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "True Navy Fern Gallery Lace",
+                    "value": "True Navy Fern Gallery Lace"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "True Navy Gypset Swirl Dress",
+                    "value": "True Navy Gypset Swirl Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "True Navy Palm Paradise Puckered Jacquard",
+                    "value": "True Navy Palm Paradise Puckered Jacquard"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "True Navy Pop Up Safari Stripe Eng Dress",
+                    "value": "True Navy Pop Up Safari Stripe Eng Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 3,
+                    "label": "Twilight Blue",
+                    "value": "Twilight Blue"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Twilight Blue Coastal Shell Stripe",
+                    "value": "Twilight Blue Coastal Shell Stripe"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 4,
+                    "label": "Twilight Blue Early Riser",
+                    "value": "Twilight Blue Early Riser"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Twilight Blue Early Riser Engineered Dress",
+                    "value": "Twilight Blue Early Riser Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Twilight Blue Early Riser Engineered Maxi",
+                    "value": "Twilight Blue Early Riser Engineered Maxi"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Twilight Blue Nest To Nothing",
+                    "value": "Twilight Blue Nest To Nothing"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 11,
+                    "label": "Twilight Blue Scale Up",
+                    "value": "Twilight Blue Scale Up"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 1,
+                    "label": "Twilight Blue Scale Up Engineered Dress",
+                    "value": "Twilight Blue Scale Up Engineered Dress"
+                },
+                {
+                    "_type": "product_search_refinement_value",
+                    "hit_count": 2,
+                    "label": "Via Marila Wash",
+                    "value": "Via Marila Wash"
+                }
+            ]
+        }
+    ],
+    "search_phrase_suggestions": {
+        "_type": "suggestion"
+    },
+    "selected_refinements": {
+        "cgid": "just-in"
+    },
+    "sorting_options": [
+        {
+            "_type": "product_search_sorting_option",
+            "id": "best-matches",
+            "label": "Best Matches"
+        },
+        {
+            "_type": "product_search_sorting_option",
+            "id": "top-sellers",
+            "label": "Top Sellers"
+        },
+        {
+            "_type": "product_search_sorting_option",
+            "id": "top-rated",
+            "label": "Top Rated"
+        },
+        {
+            "_type": "product_search_sorting_option",
+            "id": "price-high-to-low",
+            "label": "Price High to Low"
+        },
+        {
+            "_type": "product_search_sorting_option",
+            "id": "price-low-to-high",
+            "label": "Price Low To High"
+        }
+    ],
+    "start": 0,
+    "total": 340
+}
