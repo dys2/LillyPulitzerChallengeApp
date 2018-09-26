@@ -12,6 +12,7 @@ div.grid-layout > div {
   border: solid 1px #444;
   border-radius: 6px;
   margin-bottom: 20px;
+  cursor: pointer;
 }
 
 div.grid-layout card-image {
